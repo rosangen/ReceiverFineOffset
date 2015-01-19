@@ -8,6 +8,9 @@ Based on Luc Small's libary,
 And also on Randy Simons's Fuzzillogic libary, 
  https://bitbucket.org/fuzzillogic/433mhzforarduino/wiki/Home
 
+**Examples of sensor:**
+![alt tag](https://raw.githubusercontent.com/rosangen/ReceiverFineOffset/master/docs/image.jpg)
+
 ###InterruptChain
 This library allows to have more than one callback for an interrupt signal.
 Its purpose here is to allow listening for signals of both type remote switches and weather stations using only one receiver at the same time. You can combine all the functionality of all libraries in one sketch! 
